@@ -1,0 +1,1862 @@
+{
+  "lineas": [
+    "Mogul 1",
+    "Mogul 2",
+    "Mogul 3",
+    "Mogul A",
+    "Mogul B"
+  ],
+  "plantas": [
+    "BIANCHI",
+    "TRULULU"
+  ],
+  "linea_planta": {
+    "Mogul A": "BIANCHI",
+    "Mogul B": "BIANCHI",
+    "Mogul 1": "TRULULU",
+    "Mogul 2": "TRULULU",
+    "Mogul 3": "TRULULU"
+  },
+  "all_dates": [
+    "2026-05-05",
+    "2026-05-06",
+    "2026-05-07",
+    "2026-05-08",
+    "2026-05-09",
+    "2026-05-11",
+    "2026-05-12",
+    "2026-05-13",
+    "2026-05-14",
+    "2026-05-15",
+    "2026-05-16",
+    "2026-05-18",
+    "2026-05-19",
+    "2026-05-20",
+    "2026-05-21",
+    "2026-05-22",
+    "2026-05-23",
+    "2026-05-24",
+    "2026-05-25",
+    "2026-05-26"
+  ],
+  "weeks_map": {
+    "19": [
+      "2026-05-05",
+      "2026-05-06",
+      "2026-05-07",
+      "2026-05-08",
+      "2026-05-09"
+    ],
+    "20": [
+      "2026-05-11",
+      "2026-05-12",
+      "2026-05-13",
+      "2026-05-14",
+      "2026-05-15",
+      "2026-05-16"
+    ],
+    "21": [
+      "2026-05-18",
+      "2026-05-19",
+      "2026-05-20",
+      "2026-05-21",
+      "2026-05-22",
+      "2026-05-23",
+      "2026-05-24"
+    ],
+    "22": [
+      "2026-05-25",
+      "2026-05-26"
+    ]
+  },
+  "compliance": {
+    "Mogul 1": {
+      "2026-05-05": {
+        "1": null,
+        "2": null,
+        "3": 50,
+        "dia": 50
+      },
+      "2026-05-06": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-07": {
+        "1": null,
+        "2": null,
+        "3": 50,
+        "dia": 50
+      },
+      "2026-05-08": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-09": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-11": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-12": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-13": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-14": {
+        "1": null,
+        "2": 25,
+        "3": 25,
+        "dia": 25
+      },
+      "2026-05-15": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-16": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-18": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-19": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-20": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-21": {
+        "1": null,
+        "2": 75,
+        "3": 25,
+        "dia": 50
+      },
+      "2026-05-22": {
+        "1": null,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-23": {
+        "1": 25,
+        "2": 100,
+        "3": 100,
+        "dia": 75
+      },
+      "2026-05-24": {
+        "1": 100,
+        "2": 50,
+        "3": null,
+        "dia": 75
+      },
+      "2026-05-25": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-26": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      }
+    },
+    "Mogul 2": {
+      "2026-05-05": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-06": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-07": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-08": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-09": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-11": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-12": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-13": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-14": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-15": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-16": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-18": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-19": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-20": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-21": {
+        "1": null,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-22": {
+        "1": null,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-23": {
+        "1": null,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-24": {
+        "1": 100,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-25": {
+        "1": 100,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-26": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      }
+    },
+    "Mogul 3": {
+      "2026-05-05": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-06": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-07": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-08": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-09": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-11": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-12": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-13": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-14": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-15": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-16": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-18": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-19": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-20": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-21": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-22": {
+        "1": null,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-23": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-24": {
+        "1": null,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-25": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-26": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      }
+    },
+    "Mogul A": {
+      "2026-05-05": {
+        "1": null,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-06": {
+        "1": 100,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-07": {
+        "1": 100,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-08": {
+        "1": 50,
+        "2": null,
+        "3": null,
+        "dia": 50
+      },
+      "2026-05-09": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-11": {
+        "1": null,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-12": {
+        "1": null,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-13": {
+        "1": null,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-14": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-15": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-16": {
+        "1": 100,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-18": {
+        "1": 100,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-19": {
+        "1": null,
+        "2": 100,
+        "3": 75,
+        "dia": 87.5
+      },
+      "2026-05-20": {
+        "1": 100,
+        "2": 50,
+        "3": null,
+        "dia": 75
+      },
+      "2026-05-21": {
+        "1": 100,
+        "2": 50,
+        "3": 25,
+        "dia": 58.3
+      },
+      "2026-05-22": {
+        "1": null,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-23": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-24": {
+        "1": null,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-25": {
+        "1": 100,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-26": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      }
+    },
+    "Mogul B": {
+      "2026-05-05": {
+        "1": null,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-06": {
+        "1": 100,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-07": {
+        "1": 100,
+        "2": null,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-08": {
+        "1": 50,
+        "2": null,
+        "3": null,
+        "dia": 50
+      },
+      "2026-05-09": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-11": {
+        "1": 25,
+        "2": 100,
+        "3": null,
+        "dia": 62.5
+      },
+      "2026-05-12": {
+        "1": null,
+        "2": 25,
+        "3": 100,
+        "dia": 62.5
+      },
+      "2026-05-13": {
+        "1": null,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-14": {
+        "1": null,
+        "2": 25,
+        "3": 50,
+        "dia": 37.5
+      },
+      "2026-05-15": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-16": {
+        "1": 100,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-18": {
+        "1": null,
+        "2": 50,
+        "3": 100,
+        "dia": 75
+      },
+      "2026-05-19": {
+        "1": null,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-20": {
+        "1": 100,
+        "2": 50,
+        "3": null,
+        "dia": 75
+      },
+      "2026-05-21": {
+        "1": 100,
+        "2": 50,
+        "3": null,
+        "dia": 75
+      },
+      "2026-05-22": {
+        "1": 100,
+        "2": 100,
+        "3": null,
+        "dia": 100
+      },
+      "2026-05-23": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "dia": null
+      },
+      "2026-05-24": {
+        "1": null,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-25": {
+        "1": 100,
+        "2": 100,
+        "3": 100,
+        "dia": 100
+      },
+      "2026-05-26": {
+        "1": 100,
+        "2": null,
+        "3": null,
+        "dia": 100
+      }
+    }
+  },
+  "week_compliance": {
+    "Mogul 1": {
+      "19": 50,
+      "20": 25,
+      "21": 75,
+      "22": 100
+    },
+    "Mogul 2": {
+      "19": null,
+      "20": null,
+      "21": 100,
+      "22": 100
+    },
+    "Mogul 3": {
+      "19": null,
+      "20": null,
+      "21": 100,
+      "22": 100
+    },
+    "Mogul A": {
+      "19": 90,
+      "20": 100,
+      "21": 86.8,
+      "22": 100
+    },
+    "Mogul B": {
+      "19": 90,
+      "20": 77.1,
+      "21": 87.5,
+      "22": 100
+    }
+  },
+  "nc_matrix": [
+    {
+      "Zona": "Aromatizado",
+      "Componente": "Celda de carga",
+      "count": 8
+    },
+    {
+      "Zona": "Acabados",
+      "Componente": "Discos",
+      "count": 22
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Pre cleaning",
+      "count": 8
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Sensor nivel tolvas",
+      "count": 5
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Cadena depositado",
+      "count": 2
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Bandeja criba",
+      "count": 3
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Cadena apilador",
+      "count": 4
+    },
+    {
+      "Zona": "Cocimiento",
+      "Componente": "Celda de carga",
+      "count": 15
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Malla filtro",
+      "count": 3
+    },
+    {
+      "Zona": "Acabados",
+      "Componente": "Blower",
+      "count": 4
+    },
+    {
+      "Zona": "Tren",
+      "Componente": "Peines limpiadores",
+      "count": 1
+    }
+  ],
+  "nc_by_zona": {
+    "Aromatizado": 8,
+    "Acabados": 26,
+    "Tren": 26,
+    "Cocimiento": 15
+  },
+  "nc_by_comp": {
+    "Celda de carga": 23,
+    "Discos": 22,
+    "Pre cleaning": 8,
+    "Sensor nivel tolvas": 5,
+    "Cadena depositado": 2,
+    "Bandeja criba": 3,
+    "Cadena apilador": 4,
+    "Malla filtro": 3,
+    "Blower": 4,
+    "Peines limpiadores": 1
+  },
+  "nc_by_tipo": {
+    "Otro": 35,
+    "Desgaste": 17,
+    "Calibración": 6,
+    "Rotura": 4,
+    "Fuga": 6,
+    "Suciedad": 7
+  },
+  "nc_by_linea": {
+    "Mogul A": 30,
+    "Mogul 1": 25,
+    "Mogul B": 16,
+    "Mogul 2": 3,
+    "Mogul 3": 1
+  },
+  "nc_by_planta": {
+    "BIANCHI": 46,
+    "TRULULU": 29
+  },
+  "nc_table": [
+    {
+      "Fecha": "2026-05-05",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Desajuste en celdas",
+      "Usuario": "Hugo García",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-05",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Discos limpiadores frenados ",
+      "Usuario": "Santiago Vargas",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-06",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Dos pre cleaning",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-06",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": " Dos discos de la limpiadora no giran ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se encontraba trabajando un Disco quedó solucionado ",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Sensor nivel tolvas",
+      "Tipo de Hallazgo": "Calibración",
+      "Descripción del hallazgo": "Se rebosa bomba 2 ",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Cadena depositado",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "La cadena muestra elongación, se evidencia que la marca nacional muestra está tendencia",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Sensor nivel tolvas",
+      "Tipo de Hallazgo": "Calibración",
+      "Descripción del hallazgo": "Se rebosa bomba # 2 se ha presentado repetidas veces",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Cadena depositado",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Se está Elongando y se debe lavar para que funcione, desde que llegan nacional pasa este evento",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Bandeja criba",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Babero levantado de la banda y se evidencia goma entera en el ripio de almidón ",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Bandeja criba",
+      "Tipo de Hallazgo": "Rotura",
+      "Descripción del hallazgo": "No se tiene correa arrastra estibas derecha lado operación, solo funciona con una",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Sensor nivel tolvas",
+      "Tipo de Hallazgo": "Fuga",
+      "Descripción del hallazgo": "Fuga de jarabe sobre bomba depositadora",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Apilador",
+      "Componente": "Cadena apilador",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Falta de acrílico de seguridad ",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Apilador",
+      "Componente": "Cadena apilador",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Falta acrilico seguridad",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Apilador",
+      "Componente": "Cadena apilador",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Falta acrilico de seguridad",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-07",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Apilador",
+      "Componente": "Cadena apilador",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Falta acrilico se seguridad",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-08",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Calibración",
+      "Descripción del hallazgo": "Se encontraba  mostrando peso  cuando  la marmita estaba totalmente vacía ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-08",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Calibración",
+      "Descripción del hallazgo": "Presenta  un peso de 10.9kg cuando  esta totalmente vacía ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-08",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Calibración",
+      "Descripción del hallazgo": " Presenta peso de 10,9kg cuando la marmita está  totalmente vacía ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-11",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Fuga",
+      "Descripción del hallazgo": "Bomba de gelatina con fuga ",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-13",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": " Dos preclines  no giran ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-13",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Falta habilitar un plecleaning",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-13",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Se observa uno de los discos superiores frenados",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-13",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No contamos con un pre cleaning funcional ",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-14",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Se identifica los 4 discos parados. Aviso generado en el Mogul con el llamado al técnico ",
+      "Usuario": "Santiago Vargas",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-14",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Hay tres preclines que no están girando villada los va a revisar\r\n30431823 número de aviso ",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-14",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No funcionan los discos inferiores ",
+      "Usuario": "Henry Valencia",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-14",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Fuga en marmita de gelatina ",
+      "Usuario": "Hugo García",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-14",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Fuga",
+      "Descripción del hallazgo": "Fuga de ácido ",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-15",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Dos discos parados ",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-15",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": " No se pueden poner  en punto cero ya que   se cambia el nivel de usuario por operator   y en este usuario no  se deja calibrar ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-15",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "En el nivel de usuario (operator) que se deja  a producción  no se puede  poner en punto cero las celdas ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-15",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Almidón",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "En el nivel de usuario (operator) no  nos deja poner en punto cero las celdas de carga ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-15",
+      "Turno": "1",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita pesadora",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "En el nivel de usuario (operator) no nos deja poner en punto cero las celdas de carga ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-18",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "1 disco parado",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "Se encuentran dos discos de la limpiadora frenados ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Bandeja criba",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": " Bandeja se  encuentra reventada ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Se encuentra discos frenados ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Dos discos parados ",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Dos precleaning deshabilitados ",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita pesadora",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Marca -5 kg cuando debería estar en 0",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Un pre cleaning deshabilitado ",
+      "Usuario": "Sebastian Vergara",
+      "Estado": "Abierto",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Fuga",
+      "Descripción del hallazgo": "Fuga tornado ",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "12083890"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Fuga",
+      "Descripción del hallazgo": "Fuga de agua en rotor tornado 1",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "12084312"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Tornado n1 sin guarda de seguridad",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "12084309"
+    },
+    {
+      "Fecha": "2026-05-19",
+      "Turno": "3",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Fuga",
+      "Descripción del hallazgo": "Fuga de agua en medio de los tornados ",
+      "Usuario": "Cristian Camilo Cardona",
+      "Estado": "Abierto",
+      "Aviso": "1208410"
+    },
+    {
+      "Fecha": "2026-05-20",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Malla filtro",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Desprendimiento de lambre",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "12084441"
+    },
+    {
+      "Fecha": "2026-05-20",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "Dos discos sin funcionar en la limpiadora ",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "30432991"
+    },
+    {
+      "Fecha": "2026-05-20",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Acabados",
+      "Equipo": "Vaporizadora",
+      "Componente": "Blower",
+      "Tipo de Hallazgo": "Rotura",
+      "Descripción del hallazgo": "Blower está reventado ",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "30432992"
+    },
+    {
+      "Fecha": "2026-05-20",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "2 discos de la limpiadora no estan funcionando ",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "30432991"
+    },
+    {
+      "Fecha": "2026-05-20",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Vaporizadora",
+      "Componente": "Blower",
+      "Tipo de Hallazgo": "Rotura",
+      "Descripción del hallazgo": "El blower está partido",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "30432992"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Vaporizadora",
+      "Componente": "Blower",
+      "Tipo de Hallazgo": "Rotura",
+      "Descripción del hallazgo": "Blower en mal esrado",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "30432992"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Peines limpiadores",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Hay dos preclines que no giran ",
+      "Usuario": "Nicolas Valencia Serna",
+      "Estado": "Abierto",
+      "Aviso": "12084181"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Gelatina",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Almidón",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita Almidón",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita pesadora",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Cocimiento",
+      "Equipo": "Marmita pesadora",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Aromatizado",
+      "Equipo": "Árbol de aromatizado",
+      "Componente": "Celda de carga",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está depositando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Vaporizadora",
+      "Componente": "Blower",
+      "Tipo de Hallazgo": "Calibración",
+      "Descripción del hallazgo": "Se tenía problemas con el calentamiento, pero ya se solucionó ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Cerrado",
+      "Aviso": "-"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Sensor nivel tolvas",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "No se está operando ",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "Aviso"
+    },
+    {
+      "Fecha": "2026-05-21",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "Discos pegados",
+      "Usuario": "Carlos Mario Giraldo Rincon",
+      "Estado": "Abierto",
+      "Aviso": "12083572"
+    },
+    {
+      "Fecha": "2026-05-22",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "Se presenta alta suciedad en uno de los discos de la limpiadora y se pegan, se rectifica y queda ok",
+      "Usuario": "Manuel Felipe Ruales Jurado",
+      "Estado": "Abierto",
+      "Aviso": "."
+    },
+    {
+      "Fecha": "2026-05-22",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Discos de la limpiadora parados",
+      "Usuario": "Carlos Mario Giraldo Rincon",
+      "Estado": "Abierto",
+      "Aviso": "12083572"
+    },
+    {
+      "Fecha": "2026-05-22",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 2",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Malla filtro",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Se observa que la malla filtro en los costados tiene desprendimiento de alambres\r\n",
+      "Usuario": "Administrador",
+      "Estado": "Abierto",
+      "Aviso": "12084441"
+    },
+    {
+      "Fecha": "2026-05-22",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 2",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Malla filtro",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": " Se observa que la malla filtro en los costados tiene desprendimiento de alambres\r\n",
+      "Usuario": "Administrador",
+      "Estado": "Abierto",
+      "Aviso": "12084441"
+    },
+    {
+      "Fecha": "2026-05-23",
+      "Turno": "2",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 2",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Se evidencia que algunos discos no giran bn lo que puede provocar una mala limpieza de la goma ",
+      "Usuario": "Oscar Alonso Carvajal Orozco",
+      "Estado": "Abierto",
+      "Aviso": "30433692"
+    },
+    {
+      "Fecha": "2026-05-23",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Discos pegados",
+      "Usuario": "Carlos Mario Giraldo Rincon",
+      "Estado": "Abierto",
+      "Aviso": "12083572"
+    },
+    {
+      "Fecha": "2026-05-24",
+      "Turno": "1",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "Se evidencia discos pegados ",
+      "Usuario": "Carlos Mario Giraldo Rincon",
+      "Estado": "Abierto",
+      "Aviso": "12083572"
+    },
+    {
+      "Fecha": "2026-05-24",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Tren",
+      "Equipo": "Zona polvo/impresión",
+      "Componente": "Pre cleaning",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Precling parados ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "12084181"
+    },
+    {
+      "Fecha": "2026-05-24",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul A",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Discos parados ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "12084275"
+    },
+    {
+      "Fecha": "2026-05-24",
+      "Turno": "2",
+      "Planta": "BIANCHI",
+      "Línea": "Mogul B",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Otro",
+      "Descripción del hallazgo": "Discos frenados ",
+      "Usuario": "Leandro Lopez Toro",
+      "Estado": "Abierto",
+      "Aviso": "12084275"
+    },
+    {
+      "Fecha": "2026-05-24",
+      "Turno": "3",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 3",
+      "Zona": "Tren",
+      "Equipo": "Bombas depositado",
+      "Componente": "Sensor nivel tolvas",
+      "Tipo de Hallazgo": "Suciedad",
+      "Descripción del hallazgo": "Se evidencia un sensor con cubierta de jarabe y no deja sensar el nivel ",
+      "Usuario": "Jhon Jairo Bueno Chaux",
+      "Estado": "Abierto",
+      "Aviso": "."
+    },
+    {
+      "Fecha": "2026-05-25",
+      "Turno": "1",
+      "Planta": "TRULULU",
+      "Línea": "Mogul 1",
+      "Zona": "Acabados",
+      "Equipo": "Limpiadora",
+      "Componente": "Discos",
+      "Tipo de Hallazgo": "Desgaste",
+      "Descripción del hallazgo": "Se evidencia discos pegados",
+      "Usuario": "Carlos Mario Giraldo Rincon",
+      "Estado": "Abierto",
+      "Aviso": "12083572"
+    }
+  ]
+}
